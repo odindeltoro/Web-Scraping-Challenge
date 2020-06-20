@@ -15,7 +15,7 @@ Hemispheres: [Mars Hemispheres](https://astrogeology.usgs.gov/search/results?)
 
 ## Website
 
-Website: [Mission to Mars](https://odindeltoro.github.io/Web-Scraping-Challenge/)
+Website: [Mission to Mars](https://odindeltoro.github.io/Web-Scraping-Challenge/templates)
 
 ![Web page sample](Images/Mars1.JPG)
 ![Web page sample](Images/Mars2.JPG)
